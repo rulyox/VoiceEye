@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice Eye</string>
+    <string name="main_read">Click the button to take a picture. If there are shadows or noise, there is a high probability that the results will be inaccurate.</string>
+    <string name="main_eng">Scan English</string>
+    <string name="main_kor">Scan Korean</string>
+    <string name="progressing">Progressing…</string>
+</resources>

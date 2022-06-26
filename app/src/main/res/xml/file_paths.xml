@@ -1,0 +1,11 @@
+<paths>
+
+    <external-path
+        name="my_images"
+        path="Android/data/zyon.voiceeye/files/Pictures"/>
+
+    <external-path
+        name="external_files"
+        path="." />
+
+</paths>

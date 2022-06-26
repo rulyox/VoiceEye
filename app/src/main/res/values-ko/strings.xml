@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">보이스 아이</string>
+    <string name="main_read">버튼을 눌러 사진을 찍으세요. 그림자 또는 노이즈 등이 있으면 결과가 부정확할 확률이 높습니다.</string>
+    <string name="main_eng">영어 스캔</string>
+    <string name="main_kor">한글 스캔</string>
+    <string name="progressing">처리 중…</string>
+</resources>
